@@ -22,7 +22,7 @@ This repo is:
 
 ## 💡 Tech Used
 
-- Python 3.x
+- Python 3.10
 - Command-line interface (CLI)
 - Basic file handling and logic building
 
@@ -30,8 +30,8 @@ This repo is:
 
 Feel free to explore the code or reach out if you have feedback or ideas!
 
-- 🌐 GitHub: [Your GitHub Profile](https://github.com/your-username)
-- 📧 Email: *[your-email@example.com]* (optional)
+- 🌐 GitHub: https://github.com/CVHB008/My_pyprojects_hub.git
+- 📧 Email: *cvharibhrasath008@gmail.com*
 
 ---
 
